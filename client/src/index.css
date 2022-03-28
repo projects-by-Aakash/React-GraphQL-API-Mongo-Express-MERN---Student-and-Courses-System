@@ -1,0 +1,15 @@
+a {
+	text-decoration: none !important;
+}
+
+.custom-shadow {
+	box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.31) !important;
+}
+
+box-icon:hover {
+	cursor: pointer;
+}
+
+.logout:hover {
+	cursor: pointer;
+}
